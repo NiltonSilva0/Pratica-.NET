@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Pratica-.NET.slnx/FileContentIndex/bf0944c5-a80d-47ee-822b-ea770e0c0bbf.vsidx
+/.vs/slnx.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/Pratica-.NET.slnx/FileContentIndex/82acb94f-298c-4e8f-84f2-49749a0221e1.vsidx
+/.vs/Pratica-.NET.slnx/FileContentIndex/26c55e74-a915-44c6-8f02-87de8a5b9031.vsidx
+*.vsidx
